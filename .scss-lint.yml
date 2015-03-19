@@ -1,0 +1,21 @@
+---
+linters:
+  EmptyLineBetweenBlocks:
+    enabled: false
+  HexLength:
+    enabled: false
+  HexNotation:
+    enabled: false
+  LeadingZero:
+    enabled: false
+  NameFormat:
+    enabled: false
+  NestingDepth:
+    max_depth: 4
+  QualifyingElement:
+    allow_element_with_attribute: true
+    allow_element_with_class: true
+  SelectorDepth:
+    enabled: false
+  SingleLinePerSelector:
+    enabled: false
